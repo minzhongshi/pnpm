@@ -30,7 +30,7 @@ To quote the [Rush](https://rushjs.io/) team:
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 
 ## Platinum Sponsors
-
+1
 <table>
   <tbody>
     <tr>
